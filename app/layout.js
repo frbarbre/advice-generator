@@ -5,7 +5,7 @@ const manrope = Manrope({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Advice Generator',
-  description: 'Create advice by the click of a button',
+  description: 'Create advice by the click of a buttonseo',
 }
 
 export default function RootLayout({ children }) {
